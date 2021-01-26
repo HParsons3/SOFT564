@@ -34,3 +34,12 @@ Commands can be placed consecutively with no spaces, for example 1f2r3b.
 A command must be less than 15 characters, and must be terminated with a period or full stop '.'
 
 TCP ONLY: Using the exclamation mark '!', you can read data from the Arduino. This will store the data, which will be printed the next time you send a command. This command could be a movement command or another read command.
+
+Hardware fault detection example: 
+https://youtu.be/Rezl7o7EnJ8
+
+TCP Example:
+https://youtu.be/PWVwV1q0zhg
+
+BLE Example: 
+https://youtu.be/Rle9FHBZaws
